@@ -1,0 +1,24 @@
+# Ignorar ambiente virtual
+.venv/
+
+# Ignorar arquivos de configuração de ambiente
+.env
+
+# Ignorar caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar outros arquivos temporários
+*.log
+*.pot
+*.pyc
+
+# Ignorar pastas do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas de ferramentas
+.vscode/
+.idea/
